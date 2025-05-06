@@ -1,0 +1,1463 @@
+Index,Filled,Value,Method
+5,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+64,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+72,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+75,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+114,Price Per Unit,4.0,品項平均單價
+120,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+130,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+148,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+151,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+164,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+168,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+187,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+207,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+211,Price Per Unit,3.0,品項平均單價
+226,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+252,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+258,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+281,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+289,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+303,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+340,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+364,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+371,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+381,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+391,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+401,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+403,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+419,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+430,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+435,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+442,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+443,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+444,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+445,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+462,Price Per Unit,4.0,品項平均單價
+510,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+511,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+553,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+564,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+592,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+634,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+683,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+687,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+702,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+776,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+814,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+857,Price Per Unit,3.0,品項平均單價
+868,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+882,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+934,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+947,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1010,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1011,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+1021,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1048,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1086,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1090,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1118,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1121,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1123,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1125,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1130,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1135,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1144,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1153,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1172,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+1176,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1187,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1198,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1199,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+1249,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+1281,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+1304,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+1306,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+1313,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+1371,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+1380,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+1391,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1394,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1406,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1417,Price Per Unit,1.5,品項平均單價
+1447,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1496,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+1508,Price Per Unit,1.5,品項平均單價
+1535,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1561,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1571,Price Per Unit,5.0,品項平均單價
+1605,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1620,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1624,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+1656,Price Per Unit,4.0,品項平均單價
+1709,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+1717,Price Per Unit,1.5,品項平均單價
+1727,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1759,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1763,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1770,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1774,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+1784,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1794,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1801,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1807,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+1828,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+1843,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+1844,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+1868,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1910,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+1926,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+1948,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+1955,Price Per Unit,1.5,品項平均單價
+1960,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+2011,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2146,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2164,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2174,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+2180,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+2190,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+2215,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+2222,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+2226,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2272,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2273,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+2286,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2316,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2318,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+2345,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2353,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+2359,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2361,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2434,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+2529,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+2561,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2566,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2585,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+2622,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2668,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2729,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2778,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2786,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2808,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2847,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+2869,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+2894,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+2910,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+2912,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+2921,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+2967,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+2970,Price Per Unit,1.0,品項平均單價
+2990,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3003,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3015,Price Per Unit,3.0,品項平均單價
+3041,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+3057,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3063,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3078,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+3124,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3131,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3142,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+3146,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3159,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3201,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3236,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3248,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+3254,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3257,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+3268,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+3271,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3281,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3306,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+3308,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+3399,Price Per Unit,4.0,品項平均單價
+3499,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3507,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3545,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3551,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+3552,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+3554,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3559,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3581,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3594,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3625,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+3627,Price Per Unit,4.0,品項平均單價
+3638,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+3684,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+3714,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3728,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3732,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3746,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+3783,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3793,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+3801,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3803,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3813,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3824,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3880,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3881,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+3889,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3907,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+3951,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+3976,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+3977,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+3986,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+4001,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4026,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4046,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+4055,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4113,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+4114,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4208,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+4209,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+4219,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4226,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4242,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4273,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4284,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+4367,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+4387,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+4397,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4407,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4416,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4419,Price Per Unit,1.5,品項平均單價
+4474,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4494,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4508,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+4522,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4524,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4538,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4554,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4559,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4592,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+4602,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4618,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4637,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4667,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+4673,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+4681,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4694,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+4707,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+4722,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4821,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4833,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4858,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+4876,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+4879,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+4880,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4903,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4947,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+4962,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+4984,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+4987,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5042,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5087,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5090,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5117,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5139,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+5159,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5166,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5174,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5206,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5211,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5232,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+5241,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5296,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+5307,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+5314,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5317,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5340,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5342,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5358,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+5397,Price Per Unit,1.0,品項平均單價
+5405,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5415,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5419,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5449,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5473,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+5485,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+5498,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+5499,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5511,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+5512,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5532,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5552,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+5572,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+5597,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+5619,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5640,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+5650,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+5678,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5731,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+5747,Price Per Unit,2.0,品項平均單價
+5754,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+5758,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+5776,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+5779,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+5851,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+5880,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5906,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+5909,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+5917,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+5936,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+6018,Price Per Unit,4.0,品項平均單價
+6020,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+6029,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+6115,Price Per Unit,5.0,品項平均單價
+6117,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6120,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+6136,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+6173,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+6223,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6234,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+6257,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6285,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+6297,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+6325,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+6327,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6332,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6339,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6340,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6350,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+6370,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6387,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+6390,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+6405,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+6419,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+6475,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6499,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+6502,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6525,Price Per Unit,2.0,品項平均單價
+6648,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+6657,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6682,Price Per Unit,1.0,品項平均單價
+6729,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+6737,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6769,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+6779,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+6787,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+6842,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+6851,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+6885,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+6901,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+6903,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+6939,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+6944,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+6997,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7005,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7034,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7047,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7062,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7070,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7092,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7096,Price Per Unit,4.0,品項平均單價
+7099,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7116,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7139,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7155,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7161,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7202,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7206,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7207,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7215,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7270,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7280,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7304,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7323,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7324,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7330,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7335,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7372,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7427,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7452,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7455,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7457,Price Per Unit,1.5,品項平均單價
+7459,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7472,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7473,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7474,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7477,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7490,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7512,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7539,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7543,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7559,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7564,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7565,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7614,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7616,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7624,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7625,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7634,Price Per Unit,4.0,品項平均單價
+7671,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7677,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7681,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+7690,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7695,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7726,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7727,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7729,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7730,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7750,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7782,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7790,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7810,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7838,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+7867,Price Per Unit,1.0,品項平均單價
+7879,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7886,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7891,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7896,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7904,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7911,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+7912,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+7913,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+7987,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+7999,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+8001,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+8008,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8053,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+8060,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+8066,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8099,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+8130,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8161,Price Per Unit,4.0,品項平均單價
+8163,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+8164,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8169,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8180,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8238,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+8280,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+8285,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8338,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+8370,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8378,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+8395,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+8417,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8443,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8475,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+8476,Price Per Unit,1.0,品項平均單價
+8487,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8514,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8521,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+8533,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8543,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8550,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8555,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+8581,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+8596,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8615,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8643,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+8672,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8695,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+8706,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8740,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8751,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8769,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8793,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8816,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8820,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8842,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+8857,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8869,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+8870,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8878,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+8884,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8925,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+8937,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8962,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+8991,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9022,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9050,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9053,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9057,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9074,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9078,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9107,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9133,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+9156,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9160,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9187,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9221,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9245,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9251,Price Per Unit,3.0,品項平均單價
+9266,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9303,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9310,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9336,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9350,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+9354,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9383,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+9384,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9397,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9400,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9405,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9408,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9443,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9477,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9482,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9487,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9491,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9499,Price Per Unit,3.0,品項平均單價
+9521,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9580,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9630,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+9646,Price Per Unit,1.5,品項平均單價
+9666,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9670,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9680,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9696,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9703,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9715,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+9741,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9743,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9756,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9790,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+9842,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9862,Price Per Unit,2.0,由 Total ÷ Quantity 補推
+9864,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9866,Price Per Unit,5.0,由 Total ÷ Quantity 補推
+9867,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9885,Price Per Unit,4.0,由 Total ÷ Quantity 補推
+9903,Price Per Unit,4.0,品項平均單價
+9911,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9912,Price Per Unit,1.0,由 Total ÷ Quantity 補推
+9938,Price Per Unit,1.0,品項平均單價
+9944,Price Per Unit,1.5,由 Total ÷ Quantity 補推
+9976,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9986,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+9993,Price Per Unit,3.0,由 Total ÷ Quantity 補推
+0,Quantity,1.0,
+9,Quantity,3.0,
+10,Total Spent,7.5,
+17,Quantity,2.0,
+22,Total Spent,8.0,
+34,Total Spent,20.0,
+35,Quantity,5.0,
+37,Quantity,4.0,
+43,Total Spent,15.0,
+50,Total Spent,12.0,
+52,Total Spent,12.0,
+55,Total Spent,15.0,
+61,Quantity,3.0,
+65,Total Spent,3.0,
+101,Quantity,5.0,
+114,Quantity,5.0,
+121,Quantity,5.0,
+129,Total Spent,15.0,
+132,Total Spent,2.0,
+152,Total Spent,1.0,
+160,Quantity,3.0,
+175,Quantity,1.0,
+200,Total Spent,12.0,
+203,Quantity,1.0,
+211,Quantity,1.0,
+233,Total Spent,3.0,
+238,Quantity,3.0,
+255,Quantity,5.0,
+256,Quantity,5.0,
+257,Quantity,2.0,
+262,Quantity,1.0,
+264,Total Spent,20.0,
+278,Quantity,3.0,
+285,Quantity,1.0,
+290,Quantity,2.0,
+291,Total Spent,1.5,
+295,Total Spent,1.5,
+296,Quantity,4.0,
+316,Quantity,4.0,
+334,Total Spent,20.0,
+337,Quantity,1.0,
+360,Total Spent,15.0,
+376,Quantity,3.0,
+385,Total Spent,16.0,
+394,Total Spent,6.0,
+411,Quantity,3.0,
+426,Total Spent,4.0,
+438,Total Spent,16.0,
+440,Quantity,3.0,
+441,Total Spent,9.0,
+448,Quantity,1.0,
+462,Total Spent,12.0,
+487,Total Spent,16.0,
+489,Total Spent,3.0,
+508,Total Spent,3.0,
+514,Quantity,4.0,
+530,Total Spent,7.5,
+570,Total Spent,4.0,
+574,Total Spent,20.0,
+591,Total Spent,9.0,
+598,Total Spent,8.0,
+601,Quantity,2.0,
+603,Quantity,2.0,
+620,Total Spent,5.0,
+629,Quantity,5.0,
+631,Quantity,4.0,
+639,Total Spent,9.0,
+654,Total Spent,5.0,
+658,Quantity,5.0,
+671,Quantity,3.0,
+679,Total Spent,6.0,
+718,Total Spent,15.0,
+726,Total Spent,10.0,
+728,Quantity,3.0,
+737,Quantity,3.0,
+739,Quantity,1.0,
+748,Quantity,3.0,
+763,Quantity,1.0,
+764,Total Spent,4.0,
+772,Total Spent,6.0,
+774,Total Spent,4.0,
+801,Quantity,1.0,
+802,Total Spent,10.0,
+803,Quantity,3.0,
+812,Total Spent,10.0,
+813,Total Spent,8.0,
+826,Total Spent,10.0,
+829,Quantity,5.0,
+843,Quantity,5.0,
+857,Total Spent,6.0,
+871,Quantity,3.0,
+913,Total Spent,20.0,
+924,Total Spent,7.5,
+927,Quantity,3.0,
+929,Quantity,1.0,
+937,Quantity,3.0,
+940,Total Spent,6.0,
+942,Quantity,1.0,
+949,Quantity,3.0,
+958,Total Spent,3.0,
+966,Total Spent,7.5,
+970,Quantity,4.0,
+971,Total Spent,12.0,
+972,Quantity,5.0,
+991,Total Spent,4.0,
+999,Quantity,4.0,
+1001,Total Spent,20.0,
+1012,Quantity,2.0,
+1050,Total Spent,4.5,
+1061,Total Spent,16.0,
+1064,Total Spent,8.0,
+1065,Quantity,3.0,
+1074,Quantity,5.0,
+1097,Total Spent,20.0,
+1115,Quantity,2.0,
+1117,Quantity,1.0,
+1133,Total Spent,16.0,
+1137,Total Spent,1.5,
+1186,Total Spent,5.0,
+1217,Total Spent,3.0,
+1220,Total Spent,7.5,
+1251,Quantity,5.0,
+1253,Total Spent,20.0,
+1254,Quantity,1.0,
+1272,Total Spent,1.0,
+1279,Quantity,1.0,
+1288,Total Spent,6.0,
+1289,Total Spent,8.0,
+1290,Total Spent,20.0,
+1298,Total Spent,10.0,
+1330,Total Spent,8.0,
+1339,Quantity,2.0,
+1360,Quantity,4.0,
+1361,Total Spent,12.0,
+1369,Total Spent,4.0,
+1381,Quantity,5.0,
+1417,Total Spent,4.5,
+1436,Total Spent,25.0,
+1437,Quantity,3.0,
+1455,Total Spent,3.0,
+1475,Quantity,4.0,
+1485,Quantity,5.0,
+1502,Quantity,5.0,
+1504,Total Spent,1.0,
+1508,Quantity,5.0,
+1518,Total Spent,20.0,
+1528,Quantity,3.0,
+1530,Total Spent,20.0,
+1545,Total Spent,6.0,
+1552,Total Spent,2.0,
+1563,Total Spent,16.0,
+1571,Quantity,1.0,
+1572,Total Spent,2.0,
+1589,Total Spent,10.0,
+1590,Total Spent,6.0,
+1618,Total Spent,20.0,
+1622,Quantity,4.0,
+1625,Quantity,4.0,
+1655,Quantity,1.0,
+1656,Quantity,4.0,
+1673,Total Spent,10.0,
+1698,Quantity,4.0,
+1702,Quantity,3.0,
+1714,Quantity,5.0,
+1717,Quantity,2.0,
+1733,Total Spent,4.0,
+1739,Quantity,2.0,
+1749,Total Spent,5.0,
+1777,Total Spent,2.0,
+1780,Total Spent,3.0,
+1788,Total Spent,4.0,
+1795,Quantity,2.0,
+1798,Total Spent,15.0,
+1818,Quantity,5.0,
+1831,Quantity,1.0,
+1832,Total Spent,20.0,
+1834,Total Spent,12.0,
+1842,Quantity,5.0,
+1860,Quantity,1.0,
+1877,Total Spent,7.5,
+1907,Quantity,3.0,
+1913,Total Spent,10.0,
+1915,Total Spent,20.0,
+1933,Total Spent,9.0,
+1954,Total Spent,16.0,
+1955,Total Spent,1.5,
+1957,Total Spent,4.5,
+1961,Quantity,5.0,
+1974,Total Spent,9.0,
+1979,Quantity,1.0,
+1990,Total Spent,2.0,
+1991,Total Spent,9.0,
+1995,Quantity,4.0,
+2005,Total Spent,12.0,
+2012,Total Spent,4.0,
+2017,Quantity,3.0,
+2018,Quantity,2.0,
+2019,Quantity,3.0,
+2026,Quantity,4.0,
+2039,Total Spent,8.0,
+2042,Total Spent,4.0,
+2045,Total Spent,6.0,
+2077,Total Spent,9.0,
+2081,Total Spent,15.0,
+2098,Total Spent,8.0,
+2100,Quantity,5.0,
+2101,Quantity,3.0,
+2104,Total Spent,4.5,
+2111,Quantity,1.0,
+2114,Total Spent,3.0,
+2123,Quantity,2.0,
+2147,Quantity,2.0,
+2149,Total Spent,15.0,
+2168,Quantity,3.0,
+2179,Total Spent,4.0,
+2189,Quantity,5.0,
+2193,Quantity,1.0,
+2198,Total Spent,12.0,
+2212,Quantity,2.0,
+2223,Quantity,3.0,
+2234,Total Spent,12.0,
+2237,Quantity,1.0,
+2250,Total Spent,6.0,
+2252,Total Spent,6.0,
+2264,Total Spent,9.0,
+2283,Quantity,2.0,
+2284,Total Spent,16.0,
+2285,Total Spent,3.0,
+2301,Total Spent,12.0,
+2314,Quantity,2.0,
+2377,Quantity,2.0,
+2394,Total Spent,12.0,
+2395,Total Spent,15.0,
+2397,Total Spent,12.0,
+2400,Quantity,1.0,
+2402,Quantity,2.0,
+2409,Total Spent,1.0,
+2417,Total Spent,8.0,
+2418,Quantity,5.0,
+2420,Quantity,4.0,
+2440,Quantity,5.0,
+2445,Total Spent,8.0,
+2456,Total Spent,3.0,
+2470,Quantity,5.0,
+2478,Quantity,1.0,
+2495,Quantity,5.0,
+2498,Total Spent,2.0,
+2501,Quantity,3.0,
+2507,Quantity,2.0,
+2527,Quantity,1.0,
+2533,Total Spent,4.0,
+2534,Total Spent,5.0,
+2542,Total Spent,20.0,
+2543,Total Spent,20.0,
+2548,Total Spent,25.0,
+2549,Total Spent,12.0,
+2572,Quantity,2.0,
+2587,Total Spent,6.0,
+2591,Total Spent,12.0,
+2604,Total Spent,8.0,
+2612,Total Spent,5.0,
+2615,Total Spent,10.0,
+2617,Quantity,2.0,
+2629,Total Spent,15.0,
+2642,Quantity,4.0,
+2645,Total Spent,10.0,
+2650,Quantity,4.0,
+2653,Quantity,1.0,
+2664,Total Spent,16.0,
+2674,Total Spent,25.0,
+2684,Total Spent,7.5,
+2687,Total Spent,12.0,
+2690,Quantity,1.0,
+2693,Total Spent,12.0,
+2695,Total Spent,4.0,
+2697,Quantity,5.0,
+2703,Quantity,4.0,
+2725,Total Spent,12.0,
+2727,Quantity,2.0,
+2736,Quantity,1.0,
+2738,Quantity,5.0,
+2760,Total Spent,12.0,
+2764,Quantity,5.0,
+2777,Quantity,1.0,
+2785,Total Spent,4.0,
+2811,Total Spent,12.0,
+2819,Total Spent,10.0,
+2833,Quantity,1.0,
+2853,Quantity,3.0,
+2857,Quantity,1.0,
+2859,Total Spent,1.0,
+2867,Quantity,4.0,
+2881,Total Spent,3.0,
+2883,Total Spent,8.0,
+2886,Quantity,5.0,
+2890,Total Spent,1.0,
+2891,Total Spent,12.0,
+2895,Quantity,2.0,
+2925,Quantity,5.0,
+2940,Quantity,1.0,
+2941,Total Spent,4.5,
+2949,Quantity,4.0,
+2964,Quantity,1.0,
+2965,Total Spent,9.0,
+2970,Total Spent,2.0,
+2974,Total Spent,8.0,
+2991,Total Spent,12.0,
+3015,Total Spent,9.0,
+3029,Quantity,4.0,
+3032,Total Spent,1.0,
+3048,Quantity,4.0,
+3049,Total Spent,15.0,
+3052,Quantity,2.0,
+3072,Quantity,1.0,
+3076,Total Spent,7.5,
+3086,Total Spent,8.0,
+3087,Quantity,4.0,
+3096,Quantity,1.0,
+3109,Quantity,5.0,
+3110,Quantity,3.0,
+3111,Total Spent,8.0,
+3167,Quantity,3.0,
+3185,Quantity,5.0,
+3186,Quantity,1.0,
+3198,Quantity,5.0,
+3199,Quantity,5.0,
+3203,Total Spent,6.0,
+3213,Quantity,2.0,
+3237,Quantity,5.0,
+3255,Total Spent,8.0,
+3258,Quantity,4.0,
+3277,Quantity,2.0,
+3282,Total Spent,25.0,
+3283,Total Spent,1.0,
+3311,Quantity,3.0,
+3335,Quantity,1.0,
+3353,Total Spent,1.0,
+3356,Total Spent,12.0,
+3362,Quantity,2.0,
+3376,Quantity,5.0,
+3379,Total Spent,12.0,
+3399,Total Spent,4.0,
+3419,Quantity,1.0,
+3425,Quantity,5.0,
+3429,Quantity,3.0,
+3439,Total Spent,8.0,
+3448,Quantity,1.0,
+3484,Total Spent,12.0,
+3489,Quantity,5.0,
+3492,Quantity,1.0,
+3493,Total Spent,2.0,
+3510,Quantity,1.0,
+3512,Quantity,2.0,
+3513,Total Spent,4.5,
+3523,Quantity,5.0,
+3529,Quantity,5.0,
+3532,Total Spent,12.0,
+3542,Total Spent,12.0,
+3548,Total Spent,20.0,
+3557,Quantity,5.0,
+3566,Quantity,2.0,
+3579,Total Spent,2.0,
+3589,Quantity,2.0,
+3600,Total Spent,12.0,
+3603,Quantity,3.0,
+3606,Quantity,5.0,
+3607,Total Spent,5.0,
+3617,Total Spent,8.0,
+3622,Quantity,2.0,
+3627,Total Spent,12.0,
+3632,Total Spent,5.0,
+3656,Quantity,1.0,
+3669,Total Spent,12.0,
+3679,Total Spent,8.0,
+3682,Quantity,5.0,
+3711,Total Spent,12.0,
+3717,Total Spent,8.0,
+3726,Quantity,2.0,
+3749,Quantity,3.0,
+3752,Quantity,1.0,
+3753,Total Spent,4.0,
+3800,Total Spent,12.0,
+3816,Quantity,5.0,
+3833,Total Spent,16.0,
+3838,Quantity,5.0,
+3867,Quantity,3.0,
+3887,Total Spent,6.0,
+3899,Quantity,3.0,
+3903,Total Spent,5.0,
+3910,Total Spent,3.0,
+3911,Total Spent,5.0,
+3922,Total Spent,9.0,
+3927,Quantity,2.0,
+3943,Total Spent,10.0,
+3946,Total Spent,20.0,
+3958,Total Spent,5.0,
+3989,Total Spent,3.0,
+4019,Quantity,1.0,
+4020,Quantity,1.0,
+4051,Quantity,3.0,
+4072,Quantity,3.0,
+4075,Total Spent,8.0,
+4083,Quantity,1.0,
+4109,Quantity,3.0,
+4128,Quantity,5.0,
+4135,Total Spent,12.0,
+4138,Quantity,2.0,
+4140,Total Spent,6.0,
+4147,Total Spent,8.0,
+4158,Quantity,4.0,
+4173,Total Spent,15.0,
+4174,Total Spent,15.0,
+4204,Quantity,5.0,
+4218,Total Spent,6.0,
+4248,Total Spent,4.0,
+4249,Quantity,5.0,
+4256,Quantity,3.0,
+4267,Quantity,3.0,
+4287,Quantity,4.0,
+4312,Total Spent,8.0,
+4313,Total Spent,1.0,
+4336,Quantity,3.0,
+4337,Quantity,1.0,
+4340,Total Spent,3.0,
+4345,Total Spent,25.0,
+4356,Total Spent,3.0,
+4361,Quantity,1.0,
+4373,Quantity,3.0,
+4392,Total Spent,7.5,
+4403,Quantity,1.0,
+4412,Total Spent,6.0,
+4419,Total Spent,3.0,
+4429,Quantity,2.0,
+4437,Quantity,4.0,
+4469,Total Spent,12.0,
+4482,Quantity,4.0,
+4484,Total Spent,8.0,
+4505,Total Spent,20.0,
+4507,Quantity,4.0,
+4513,Total Spent,16.0,
+4517,Quantity,1.0,
+4521,Quantity,4.0,
+4526,Quantity,1.0,
+4533,Total Spent,5.0,
+4547,Quantity,5.0,
+4549,Total Spent,12.0,
+4552,Quantity,1.0,
+4567,Quantity,1.0,
+4576,Quantity,2.0,
+4578,Total Spent,3.0,
+4586,Total Spent,12.0,
+4587,Total Spent,6.0,
+4625,Quantity,3.0,
+4639,Quantity,3.0,
+4654,Quantity,2.0,
+4674,Quantity,5.0,
+4700,Quantity,5.0,
+4702,Quantity,3.0,
+4705,Total Spent,4.0,
+4739,Total Spent,15.0,
+4760,Total Spent,5.0,
+4772,Total Spent,10.0,
+4775,Quantity,3.0,
+4777,Quantity,1.0,
+4787,Total Spent,12.0,
+4795,Total Spent,5.0,
+4796,Total Spent,2.0,
+4827,Total Spent,20.0,
+4828,Total Spent,4.0,
+4831,Total Spent,6.0,
+4861,Quantity,1.0,
+4889,Quantity,1.0,
+4907,Quantity,3.0,
+4918,Quantity,2.0,
+4921,Quantity,1.0,
+4948,Total Spent,9.0,
+4977,Quantity,3.0,
+4997,Total Spent,5.0,
+5006,Total Spent,6.0,
+5018,Total Spent,9.0,
+5029,Total Spent,2.0,
+5047,Quantity,4.0,
+5052,Quantity,3.0,
+5059,Quantity,3.0,
+5071,Quantity,1.0,
+5083,Total Spent,6.0,
+5096,Quantity,4.0,
+5100,Quantity,4.0,
+5114,Quantity,2.0,
+5116,Total Spent,10.0,
+5141,Total Spent,9.0,
+5165,Quantity,1.0,
+5167,Total Spent,2.0,
+5170,Quantity,4.0,
+5173,Quantity,3.0,
+5175,Total Spent,25.0,
+5193,Quantity,2.0,
+5194,Total Spent,4.0,
+5195,Total Spent,20.0,
+5210,Total Spent,3.0,
+5214,Total Spent,9.0,
+5239,Quantity,5.0,
+5259,Total Spent,3.0,
+5262,Quantity,5.0,
+5272,Quantity,4.0,
+5273,Total Spent,6.0,
+5279,Total Spent,8.0,
+5287,Total Spent,12.0,
+5328,Total Spent,4.0,
+5359,Total Spent,4.0,
+5361,Quantity,1.0,
+5364,Total Spent,2.0,
+5379,Quantity,1.0,
+5380,Quantity,5.0,
+5393,Quantity,1.0,
+5395,Total Spent,5.0,
+5396,Total Spent,4.5,
+5397,Quantity,1.0,
+5403,Total Spent,4.5,
+5418,Total Spent,1.0,
+5425,Quantity,1.0,
+5430,Total Spent,4.0,
+5435,Quantity,1.0,
+5440,Total Spent,20.0,
+5442,Quantity,3.0,
+5475,Total Spent,7.5,
+5477,Total Spent,6.0,
+5483,Total Spent,8.0,
+5492,Total Spent,5.0,
+5507,Total Spent,16.0,
+5531,Quantity,1.0,
+5536,Quantity,4.0,
+5550,Quantity,5.0,
+5558,Quantity,5.0,
+5564,Total Spent,9.0,
+5570,Quantity,2.0,
+5587,Total Spent,4.0,
+5605,Total Spent,16.0,
+5606,Quantity,5.0,
+5609,Quantity,5.0,
+5673,Quantity,1.0,
+5700,Total Spent,9.0,
+5715,Quantity,4.0,
+5717,Quantity,5.0,
+5724,Quantity,1.0,
+5726,Quantity,4.0,
+5747,Total Spent,10.0,
+5748,Total Spent,9.0,
+5764,Quantity,3.0,
+5775,Total Spent,8.0,
+5791,Quantity,2.0,
+5801,Total Spent,5.0,
+5812,Quantity,3.0,
+5833,Total Spent,12.0,
+5850,Total Spent,3.0,
+5864,Total Spent,3.0,
+5867,Total Spent,6.0,
+5897,Quantity,5.0,
+5919,Total Spent,6.0,
+5924,Quantity,3.0,
+5933,Total Spent,4.0,
+5953,Quantity,5.0,
+5954,Quantity,1.0,
+5956,Total Spent,16.0,
+5965,Quantity,4.0,
+5974,Total Spent,15.0,
+5992,Quantity,5.0,
+6002,Quantity,3.0,
+6016,Quantity,3.0,
+6018,Quantity,2.0,
+6030,Total Spent,1.0,
+6060,Total Spent,1.5,
+6073,Quantity,3.0,
+6104,Quantity,1.0,
+6115,Total Spent,25.0,
+6141,Quantity,3.0,
+6149,Quantity,3.0,
+6152,Quantity,5.0,
+6163,Quantity,5.0,
+6171,Quantity,5.0,
+6179,Total Spent,4.0,
+6184,Total Spent,6.0,
+6202,Quantity,1.0,
+6203,Quantity,1.0,
+6209,Total Spent,20.0,
+6253,Quantity,2.0,
+6260,Total Spent,3.0,
+6261,Total Spent,9.0,
+6266,Total Spent,4.0,
+6312,Quantity,4.0,
+6344,Quantity,2.0,
+6417,Quantity,1.0,
+6421,Quantity,3.0,
+6425,Total Spent,15.0,
+6446,Total Spent,4.0,
+6452,Quantity,1.0,
+6472,Total Spent,15.0,
+6477,Quantity,5.0,
+6478,Quantity,2.0,
+6484,Total Spent,7.5,
+6487,Quantity,4.0,
+6498,Total Spent,5.0,
+6500,Quantity,4.0,
+6505,Quantity,3.0,
+6513,Quantity,2.0,
+6514,Total Spent,3.0,
+6515,Total Spent,6.0,
+6525,Quantity,2.0,
+6538,Total Spent,6.0,
+6544,Quantity,5.0,
+6547,Total Spent,8.0,
+6552,Quantity,4.0,
+6565,Total Spent,12.0,
+6570,Quantity,4.0,
+6590,Total Spent,12.0,
+6604,Quantity,1.0,
+6621,Total Spent,15.0,
+6663,Total Spent,1.5,
+6666,Quantity,4.0,
+6667,Total Spent,4.5,
+6680,Total Spent,2.0,
+6682,Total Spent,5.0,
+6697,Total Spent,9.0,
+6709,Total Spent,8.0,
+6720,Quantity,3.0,
+6739,Total Spent,9.0,
+6743,Quantity,2.0,
+6747,Total Spent,8.0,
+6767,Total Spent,5.0,
+6781,Quantity,1.0,
+6822,Quantity,1.0,
+6826,Total Spent,16.0,
+6827,Quantity,5.0,
+6829,Quantity,4.0,
+6831,Total Spent,12.0,
+6863,Quantity,2.0,
+6880,Quantity,2.0,
+6884,Total Spent,20.0,
+6894,Total Spent,3.0,
+6896,Quantity,2.0,
+6899,Quantity,1.0,
+6906,Total Spent,3.0,
+6922,Total Spent,8.0,
+6947,Quantity,5.0,
+6952,Total Spent,4.0,
+6980,Total Spent,12.0,
+6982,Quantity,4.0,
+6985,Quantity,4.0,
+6990,Quantity,5.0,
+6992,Quantity,4.0,
+7017,Quantity,5.0,
+7031,Total Spent,6.0,
+7046,Total Spent,20.0,
+7048,Quantity,5.0,
+7051,Total Spent,3.0,
+7056,Total Spent,20.0,
+7058,Total Spent,12.0,
+7059,Total Spent,6.0,
+7065,Total Spent,20.0,
+7066,Quantity,2.0,
+7082,Quantity,5.0,
+7088,Total Spent,4.0,
+7089,Quantity,5.0,
+7096,Total Spent,20.0,
+7105,Quantity,1.0,
+7106,Quantity,2.0,
+7111,Quantity,1.0,
+7117,Total Spent,20.0,
+7136,Total Spent,5.0,
+7138,Quantity,5.0,
+7147,Total Spent,8.0,
+7177,Quantity,1.0,
+7186,Total Spent,12.0,
+7198,Quantity,1.0,
+7208,Quantity,3.0,
+7213,Total Spent,20.0,
+7231,Quantity,3.0,
+7234,Total Spent,12.0,
+7235,Quantity,3.0,
+7268,Quantity,5.0,
+7274,Total Spent,3.0,
+7289,Quantity,2.0,
+7290,Total Spent,4.0,
+7305,Quantity,1.0,
+7306,Quantity,5.0,
+7331,Quantity,3.0,
+7346,Quantity,1.0,
+7349,Total Spent,5.0,
+7355,Total Spent,1.0,
+7360,Total Spent,20.0,
+7365,Total Spent,12.0,
+7378,Total Spent,1.5,
+7382,Quantity,4.0,
+7397,Quantity,3.0,
+7400,Quantity,4.0,
+7407,Quantity,2.0,
+7438,Quantity,4.0,
+7439,Total Spent,1.0,
+7442,Total Spent,9.0,
+7444,Total Spent,15.0,
+7449,Quantity,3.0,
+7457,Quantity,4.0,
+7485,Total Spent,8.0,
+7492,Total Spent,4.0,
+7493,Quantity,5.0,
+7519,Total Spent,3.0,
+7522,Total Spent,3.0,
+7535,Quantity,5.0,
+7540,Total Spent,16.0,
+7547,Total Spent,9.0,
+7552,Quantity,4.0,
+7573,Quantity,2.0,
+7584,Quantity,5.0,
+7587,Total Spent,6.0,
+7595,Total Spent,12.0,
+7628,Total Spent,8.0,
+7634,Total Spent,12.0,
+7654,Total Spent,6.0,
+7658,Total Spent,9.0,
+7660,Total Spent,4.0,
+7662,Total Spent,2.0,
+7672,Total Spent,3.0,
+7703,Quantity,1.0,
+7711,Quantity,3.0,
+7732,Quantity,5.0,
+7733,Total Spent,3.0,
+7761,Total Spent,12.0,
+7770,Quantity,5.0,
+7780,Total Spent,6.0,
+7789,Total Spent,9.0,
+7793,Quantity,3.0,
+7807,Quantity,5.0,
+7822,Quantity,4.0,
+7851,Quantity,3.0,
+7859,Total Spent,1.0,
+7867,Quantity,1.0,
+7875,Quantity,3.0,
+7880,Quantity,5.0,
+7883,Total Spent,9.0,
+7924,Quantity,2.0,
+7927,Quantity,1.0,
+7938,Quantity,3.0,
+7954,Quantity,2.0,
+7977,Quantity,2.0,
+8006,Quantity,1.0,
+8013,Total Spent,20.0,
+8039,Total Spent,6.0,
+8040,Quantity,5.0,
+8051,Total Spent,15.0,
+8069,Quantity,2.0,
+8077,Quantity,3.0,
+8081,Total Spent,2.0,
+8105,Total Spent,15.0,
+8117,Total Spent,2.0,
+8125,Total Spent,5.0,
+8144,Quantity,1.0,
+8152,Total Spent,8.0,
+8160,Total Spent,16.0,
+8161,Total Spent,8.0,
+8167,Total Spent,8.0,
+8168,Quantity,5.0,
+8171,Quantity,1.0,
+8182,Quantity,4.0,
+8192,Quantity,1.0,
+8199,Total Spent,25.0,
+8216,Total Spent,16.0,
+8237,Total Spent,6.0,
+8243,Total Spent,10.0,
+8246,Total Spent,4.0,
+8253,Total Spent,5.0,
+8269,Quantity,2.0,
+8271,Quantity,3.0,
+8339,Quantity,4.0,
+8346,Total Spent,5.0,
+8353,Quantity,2.0,
+8369,Quantity,2.0,
+8396,Quantity,4.0,
+8406,Total Spent,8.0,
+8424,Total Spent,4.0,
+8425,Total Spent,4.0,
+8433,Total Spent,3.0,
+8435,Total Spent,4.5,
+8436,Quantity,3.0,
+8450,Total Spent,5.0,
+8453,Quantity,3.0,
+8469,Total Spent,12.0,
+8476,Total Spent,2.0,
+8483,Total Spent,16.0,
+8494,Total Spent,4.0,
+8500,Total Spent,8.0,
+8520,Total Spent,15.0,
+8529,Total Spent,20.0,
+8531,Total Spent,9.0,
+8535,Total Spent,15.0,
+8539,Total Spent,9.0,
+8546,Total Spent,16.0,
+8573,Total Spent,3.0,
+8583,Quantity,2.0,
+8584,Total Spent,15.0,
+8586,Quantity,2.0,
+8603,Quantity,1.0,
+8606,Total Spent,3.0,
+8608,Quantity,4.0,
+8628,Quantity,4.0,
+8635,Quantity,4.0,
+8647,Total Spent,10.0,
+8649,Quantity,2.0,
+8654,Quantity,1.0,
+8658,Total Spent,15.0,
+8671,Total Spent,10.0,
+8689,Total Spent,25.0,
+8721,Total Spent,3.0,
+8729,Total Spent,20.0,
+8759,Quantity,2.0,
+8770,Total Spent,5.0,
+8775,Total Spent,20.0,
+8778,Quantity,4.0,
+8810,Quantity,2.0,
+8811,Quantity,3.0,
+8817,Quantity,3.0,
+8821,Quantity,4.0,
+8827,Total Spent,7.5,
+8855,Total Spent,9.0,
+8860,Quantity,4.0,
+8867,Quantity,4.0,
+8879,Quantity,2.0,
+8891,Quantity,2.0,
+8897,Quantity,3.0,
+8904,Total Spent,2.0,
+8911,Quantity,3.0,
+8918,Quantity,1.0,
+8956,Quantity,1.0,
+8966,Total Spent,20.0,
+9002,Quantity,3.0,
+9017,Total Spent,25.0,
+9067,Quantity,2.0,
+9076,Total Spent,12.0,
+9084,Total Spent,20.0,
+9093,Quantity,1.0,
+9108,Total Spent,20.0,
+9119,Quantity,3.0,
+9129,Quantity,5.0,
+9154,Total Spent,15.0,
+9171,Quantity,4.0,
+9177,Total Spent,20.0,
+9182,Total Spent,16.0,
+9192,Total Spent,4.0,
+9215,Quantity,4.0,
+9218,Quantity,3.0,
+9223,Total Spent,6.0,
+9225,Quantity,2.0,
+9228,Quantity,3.0,
+9244,Total Spent,6.0,
+9251,Quantity,1.0,
+9287,Total Spent,20.0,
+9297,Total Spent,4.0,
+9312,Quantity,4.0,
+9316,Total Spent,4.0,
+9327,Quantity,3.0,
+9331,Total Spent,8.0,
+9333,Quantity,3.0,
+9337,Total Spent,12.0,
+9339,Total Spent,3.0,
+9359,Total Spent,7.5,
+9377,Quantity,1.0,
+9382,Total Spent,15.0,
+9386,Total Spent,9.0,
+9390,Total Spent,20.0,
+9422,Total Spent,12.0,
+9439,Quantity,5.0,
+9447,Quantity,1.0,
+9462,Quantity,2.0,
+9471,Quantity,3.0,
+9473,Total Spent,6.0,
+9479,Total Spent,3.0,
+9483,Quantity,3.0,
+9499,Quantity,4.0,
+9500,Quantity,5.0,
+9510,Quantity,2.0,
+9513,Quantity,2.0,
+9523,Total Spent,15.0,
+9524,Total Spent,2.0,
+9532,Total Spent,16.0,
+9536,Total Spent,12.0,
+9551,Quantity,4.0,
+9572,Quantity,4.0,
+9583,Total Spent,4.0,
+9584,Quantity,4.0,
+9588,Total Spent,9.0,
+9593,Total Spent,6.0,
+9600,Total Spent,4.0,
+9606,Total Spent,1.0,
+9610,Quantity,5.0,
+9637,Quantity,4.0,
+9641,Total Spent,4.0,
+9646,Quantity,4.0,
+9667,Total Spent,20.0,
+9704,Total Spent,4.0,
+9714,Quantity,4.0,
+9736,Quantity,2.0,
+9739,Total Spent,2.0,
+9740,Total Spent,4.0,
+9750,Quantity,3.0,
+9763,Quantity,5.0,
+9764,Total Spent,15.0,
+9775,Total Spent,12.0,
+9777,Quantity,3.0,
+9784,Total Spent,8.0,
+9797,Total Spent,15.0,
+9798,Quantity,2.0,
+9807,Quantity,2.0,
+9808,Quantity,1.0,
+9817,Total Spent,20.0,
+9818,Total Spent,8.0,
+9824,Total Spent,4.0,
+9833,Quantity,4.0,
+9840,Quantity,5.0,
+9868,Quantity,1.0,
+9878,Total Spent,4.5,
+9889,Quantity,3.0,
+9892,Total Spent,6.0,
+9903,Total Spent,8.0,
+9910,Total Spent,1.0,
+9921,Quantity,3.0,
+9927,Quantity,3.0,
+9931,Total Spent,4.5,
+9938,Quantity,2.0,
+9945,Quantity,1.0,
+9959,Quantity,4.0,
+9960,Quantity,2.0,
+9961,Total Spent,15.0,
+9965,Total Spent,12.0,
+9985,Quantity,5.0,
+9991,Total Spent,4.5,
+9999,Total Spent,15.0,
