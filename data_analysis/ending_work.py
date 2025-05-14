@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import re
 import os
-from dirty_cafe_sales import CafeSalesCleaner
+from Filling_key_values import CafeSalesCleaner
  
 
 class Data_collation:
@@ -234,7 +234,7 @@ class Data_collation:
 
 def main():
     #檢查資料是否正確讀取
-    data = Data_collation("archive/dirty_cafe_sales.csv", "dirty_cafe_sales_cleaned.csv")
+    data = Data_collation(r"C:\Users\s0901\Documents\GitHub\Course_material_analysis\data_analysis\archive\dirty_cafe_sales.csv", "dirty_cafe_sales_cleaned.csv")
     if data.datac_heck() == True:
         print("資料讀取成功")
         #values = df['Item'].unique()
