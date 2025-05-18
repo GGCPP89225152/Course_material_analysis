@@ -132,92 +132,37 @@ class Data_collation:
             self.now_date.insert(date_idx + 2, 'Quarter', self.df[date_column].dt.quarter)
 
             return True
-        
 
-        
-    '''
-    用數學填補空白
-    '''
 
-    '''   
-    def Record_product_unit_price(self,item_column='Item',quantlty_column='Quantity' ,price_column='Price Per Unit', total_column='Total Spent'):
-        #檢查item_column標籤是否存在於資料中
-        if item_column not in self.df.columns:
-            print(f"資料中不存在標籤 {item_column}，請重新輸入:")
-            return False
-        
-        if price_column not in self.df.columns:
-            print(f"資料中不存在標籤 {price_column}，請重新輸入:")
-            return False
-        
-        if total_column not in self.df.columns:
-            print(f"資料中不存在標籤 {total_column}，請重新輸入:")
-            return False        
-        
-        for row in self.now_date.iterrows():
-            price = row[1][price_column]
-            qty = row[1][quantlty_column]
-            total = row[1][total_column]
-            item = row[1][item_column]
-            # 將數值轉換為浮點數
-            price = float(price) if pd.notna(price) else np.nan
-            qty = float(qty) if pd.notna(qty) else np.nan
-            total = float(total) if pd.notna(total) else np.nan
-            item = str(item).strip() if pd.notna(item) else np.nan
+    def fill_missing_by_distribution(self, column_name, random_seed=None):
 
-            if pd.notnull(price) and pd.notnull(item):
-                if self.Product_price.get(item) == None:
-                    self.Product_price[item] = price
+        if random_seed is not None:
+            np.random.seed(random_seed)
 
-            elif pd.isnull(price) and pd.notnull(qty) and pd.notnull(total) and pd.notnull(item):
-                if self.Product_price.get(item) == None:
-                    new_price = total / qty
-                    self.Product_price[item] = new_price
-            
+        # 計算缺值數量與類別分布
+        missing_count = self.df[column_name].isna().sum()
+        if missing_count == 0:
+            print(f"欄位 {column_name} 沒有缺值，無需填補。")
+            return self.df
 
-        #print self.Product_price
-        print("品項平均單價：")
-        for item, price in self.Product_price.items():
-            print(f"{item}: {price}")    
+        value_counts = self.df[column_name].value_counts()
+        ratios = value_counts / value_counts.sum()
+        fill_counts = (ratios * missing_count).round().astype(int)
 
-    def Fill_in_the_number_infomation(self, item_column='Item',quantlty_column='Quantity' ,price_column='Price Per Unit', total_column='Total Spent'):
-        #檢查item_column標籤是否存在於資料中
-        if item_column not in self.df.columns:
-            print(f"資料中不存在標籤 {item_column}，請重新輸入:")
-            return False
-        
-        if price_column not in self.df.columns:
-            print(f"資料中不存在標籤 {price_column}，請重新輸入:")
-            return False
-        
-        if total_column not in self.df.columns:
-            print(f"資料中不存在標籤 {total_column}，請重新輸入:")
-            return False
-        
-        self.Record_product_unit_price(item_column,quantlty_column ,price_column, total_column)
-        
-        for idx, row in self.now_date.iterrows():
-            price = row[price_column]
-            qty = row[quantlty_column]
-            total = row[total_column]
-            item = row[item_column]
+        # 誤差修正
+        diff = missing_count - fill_counts.sum()
+        if diff != 0:
+            adjustment = np.sign(diff)
+            for _ in range(abs(diff)):
+                idx = fill_counts.idxmin() if adjustment > 0 else fill_counts.idxmax()
+                fill_counts[idx] += adjustment
 
-            # 清洗數值
-            price = float(price) if pd.notna(price) else np.nan
-            qty = float(qty) if pd.notna(qty) else np.nan
-            total = float(total) if pd.notna(total) else np.nan
-            item = str(item).strip() if pd.notna(item) else np.nan
+        # 補值打亂順序後填補
+        fill_values = np.concatenate([[k] * v for k, v in fill_counts.items()])
+        np.random.shuffle(fill_values)
+        self.df.loc[self.df[column_name].isna(), column_name] = fill_values
 
-            # 補上價格欄位
-            if pd.isnull(price) and pd.notnull(item):
-                if item in self.Product_price:
-                    self.now_date.at[idx, price_column] = self.Product_price[item]
-
-            if pd.isnull(price) and pd.notnull(qty) and pd.notnull(total):
-                new_price = total / qty
-                self.now_date.at[idx, price_column] = new_price
-'''
-            
+        return self.df
 
 
 
@@ -234,7 +179,7 @@ class Data_collation:
 
 def main():
     #檢查資料是否正確讀取
-    data = Data_collation(r"C:\Users\s0901\Documents\GitHub\Course_material_analysis\data_analysis\archive\dirty_cafe_sales.csv", "dirty_cafe_sales_cleaned.csv")
+    data = Data_collation(r"D:\jeson-porject\Course_material_analysis\data_analysis\archive\dirty_cafe_sales.csv", "dirty_cafe_sales_cleaned.csv")
     if data.datac_heck() == True:
         print("資料讀取成功")
         #values = df['Item'].unique()
@@ -272,6 +217,13 @@ def main():
         math_data.run_all("cleaned_cafe_sales.csv", "log.csv")
         data = Data_collation("cleaned_cafe_sales.csv", "ending.csv")
         data.data_value_count()
+        data.export_data()
+        #填補缺值
+        data.fill_missing_by_distribution('Payment Method')
+        data.fill_missing_by_distribution('Location')
+        #檢查資料標籤
+        data.check_data_label_and_first_five_data()
+        #匯出資料
         data.export_data()
 
     else:
