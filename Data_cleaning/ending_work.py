@@ -179,7 +179,7 @@ class Data_collation:
 
 def main():
     #檢查資料是否正確讀取
-    data = Data_collation(r"D:\jeson-porject\Course_material_analysis\data_analysis\archive\dirty_cafe_sales.csv", "dirty_cafe_sales_cleaned.csv")
+    data = Data_collation(r"D:\jeson-porject\Course_material_analysis\data_cleaning\archive\dirty_cafe_sales.csv", "dirty_cafe_sales_cleaned.csv")
     if data.datac_heck() == True:
         print("資料讀取成功")
         #values = df['Item'].unique()
